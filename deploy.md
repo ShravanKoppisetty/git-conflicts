@@ -1,2 +1,2 @@
 # Deploy notes
-Contact: oncall rotation
+Contact: priya@example.com
